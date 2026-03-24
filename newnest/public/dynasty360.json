@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "main",
+      "title": "South Asian Dynasty – Main Hall",
+      "provider": "lapentor",
+      "embed": "https://app.lapentor.com/sphere/south-asian-dynasty",
+      "description": "Primary 360° view introducing South Asian dynasties, architecture, and royal spaces.",
+      "hotspots": [
+        { "label": "Metal Sculpture", "target": "metal" },
+        { "label": "Trade Route", "target": "trade" },
+        { "label": "Temple Art", "target": "art" }
+      ]
+    },
+    {
+      "id": "metal",
+      "title": "Dynasty Creation – Metal Sculpture",
+      "provider": "momento360",
+      "embed": "https://momento360.com/e/u/9339bdfc6992451faddcb8d5a58d783f?utm_campaign=embed&utm_source=other&heading=0&pitch=0.3&field-of-view=75&size=medium&display-plan=true",
+      "description": "Lost-wax bronze and copper-alloy sculptures from Chola, Gupta, and Gandhara traditions.",
+      "returnTo": "main"
+    },
+    {
+      "id": "trade",
+      "title": "Dynasty Creation – Trade & Coins",
+      "provider": "momento360",
+      "embed": "https://momento360.com/e/u/e7ab46854feb4b7bbcd7185b49ea960f?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium&display-plan=true",
+      "description": "Ancient trade routes, coin usage, and caravan-based commerce linking South Asia globally.",
+      "returnTo": "main"
+    },
+    {
+      "id": "art",
+      "title": "Dynasty Creation – Temple & Artistic Legacy",
+      "provider": "momento360",
+      "embed": "https://momento360.com/e/u/55aa3b7a39074a02be2c262a756eebc7?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium&display-plan=true",
+      "description": "Temple spaces and artistic environments reflecting dynasty-era religious and cultural expression.",
+      "returnTo": "main"
+    }
+  ]
+}

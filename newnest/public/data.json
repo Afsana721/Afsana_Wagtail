@@ -1,0 +1,94 @@
+{
+  "history": [
+    {
+      "id": 0,
+      "type": "early-settlement",
+      "image": "https://mittalsouthasiainstitute.harvard.edu/wp-content/uploads/2021/06/AdobeStock_420706796-scaled.jpeg"
+    },
+    {
+      "id": 1,
+      "type": "dynasty-conflict",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/68174de4a4dcf5001d8c1117.jpg"
+    },
+    {
+      "id": 2,
+      "type": "ancient-trade",
+      "image": "https://cdn.thecollector.com/wp-content/uploads/2023/09/earliest-trade-networks-europe-asia-pacific.jpg?width=2560&height=1440&quality=100&dpr=2"
+    },
+    {
+      "id": 3,
+      "type": "coin-economy",
+      "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/his4.png"
+    }
+  ],
+  "culture": [
+    {
+      "id": 0,
+      "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/cul1.png",
+      "paragraphs": ["South Asian culture expresses itself through ritual, art, and daily life."]
+    },
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/cul2.png",
+      "paragraphs": ["Music, dance, and oral traditions carried values across generations."]
+    },
+    {
+      "id": 2,
+      "image": "https://www.thoughtco.com/thmb/CNOF4WbV6kJF_YMRky0cbL4lnrk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HarunalRashidMondadoriPortfolioGetty-56a043b45f9b58eba4af94eb.jpg",
+      "paragraphs": ["Craftsmanship and symbolism shaped regional identities."]
+    },
+    {
+      "id": 3,
+      "image": "https://media.easy-peasy.ai/03161798-d57c-48ca-b8bf-1ca22575c0ef/b0ccc5cf-da45-4bac-b51e-6ba38e6ba4ea_medium.webp",
+      "paragraphs": ["Festivals and collective memory continue to define culture today."]
+    }
+  ],
+  "timeline": {
+    "slides": [
+      {
+        "id": 0,
+        "period": "3300–1500 BCE",
+        "title": "Early Civilizations and Urban Foundations",
+        "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/img1.png",
+        "paragraphs": [
+          "The Indus Valley Civilization represents one of the earliest urban societies in the world.",
+          "Cities such as Harappa and Mohenjo-daro featured grid-based planning, advanced drainage systems, and standardized bricks.",
+          "Long-distance trade networks linked South Asia with Mesopotamia, marking early global economic connections."
+        ]
+      },
+      {
+        "id": 1,
+        "period": "1500–300 BCE",
+        "title": "Vedic Culture and Religious Reform",
+        "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/img2.png",
+        "paragraphs": [
+          "After the decline of Indus cities, Vedic culture shaped early language, rituals, and social structures.",
+          "Sacred texts influenced philosophy, law, and education across the region.",
+          "Reform movements such as Buddhism and Jainism emerged, emphasizing ethics, compassion, and spiritual balance."
+        ]
+      },
+      {
+        "id": 2,
+        "period": "300 BCE – 700 CE",
+        "title": "Empires, Coinage, and Knowledge Exchange",
+        "image": "https://raw.githubusercontent.com/Afsana721/AptiCraft-Tour/main/newnext/app/static/img3.png",
+        "paragraphs": [
+          "The Maurya and Gupta Empires unified much of South Asia under organized administration.",
+          "These eras promoted coin-based economies, mathematics, astronomy, and medical knowledge.",
+          "Buddhism expanded along Silk Road routes, connecting South Asia with Central and East Asia."
+        ]
+      },
+      {
+        "id": 3,
+        "period": "700–1500 CE",
+        "title": "Medieval Synthesis and Global Trade",
+        "image": "https://www.globalvillagespace.com/wp-content/uploads/2021/10/556019_4054498_tns-2-1068x561.jpg",
+        "paragraphs": [
+          "Medieval South Asia experienced cultural synthesis through kingdoms, trade, and new religious influences.",
+          "Architecture, literature, music, and regional languages flourished across the subcontinent.",
+          "The region remained a central hub in Indian Ocean and overland trade networks linking East and West."
+        ]
+      }
+    ]
+  }
+}

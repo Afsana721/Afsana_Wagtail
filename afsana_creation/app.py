@@ -187,6 +187,19 @@ def aptiCraft_ArcGIS():
 
 
 
+
+
+#GA4GH html route 
+@app.route('/ga4gh')
+def ga4gh():
+    return render_template('ga4gh.html')
+
+#DBpedia html route
+@app.route('/dbpedia')
+def dbpedia():
+    return render_template('dbpedia.html')
+
+
 @app.route('/health2')
 def health2():
     return render_template('health2.html')
